@@ -77,7 +77,7 @@ services:
 
   frontend:
 
-    image:akhil122005/product-management-frontend:latest
+    image: akhil122005/product-management-frontend:latest
 
     container_name: product-management-frontend
 
